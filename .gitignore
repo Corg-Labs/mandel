@@ -2,3 +2,4 @@ mandel
 *.test
 *.o
 *.dSYM
+*.recheck
