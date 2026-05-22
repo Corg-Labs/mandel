@@ -1,0 +1,4 @@
+mandel
+*.test
+*.o
+*.dSYM
